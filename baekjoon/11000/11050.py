@@ -3,13 +3,6 @@
 https://www.acmicpc.net/problem/11050
 """
 
-# N, K = map(int,input().split())
-
-# N! / (K!)(N-K)!
-# 5 2
-# 5 4 3 2 1 / 2 1 * 3 2
-# 5 2
-
 def factorial(num):
     if num==0:
         return 1
