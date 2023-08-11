@@ -1,4 +1,4 @@
-"""11781.py
+"""11718.py
 그대로 출력하기
 https://www.acmicpc.net/problem/11718
 """
